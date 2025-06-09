@@ -7,10 +7,6 @@ Created on Thu Mar 27 09:15:20 2025
 @author: sidd
 """
 
-import numpy as np
-import random as rand
-from sys import exit
-
 old_password = input("Please input your password here: ")
 old_password_lowered = old_password.lower()
 
